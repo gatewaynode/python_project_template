@@ -1,10 +1,10 @@
-#!/usr/bin/env python3
+#!./env/bin/python3
 
 """
 Module Docstring
 """
 
-import settings.py
+import settings
 
 __author__ = "<AUTHOR>"
 __version__ = "0.1.0"
