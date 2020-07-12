@@ -6,15 +6,15 @@ It startss with some standard folders and files and adds a requirements-dev.txt 
 
 ## Install
 
-*Prerequisites*
+**Prerequisites**
 
 `` pip install --user invoke``
 
-*Install*
+**Install**
 
 `` git clone git@github.com:gatewaynode/python_project_template.git``
 
-`` mv python_project_template my_new_project_name``
+`` cp -r python_project_template my_new_project_name``
 
 `` cd my_new_projecct_name``
 
